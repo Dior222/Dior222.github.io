@@ -24,10 +24,6 @@ Software R&D
 ## Achievements
 
 
-* [**This is my first achievement**](#) 
-   
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
 ***
 
 * [**Hansight R&D, 2016.6-now**](#) 
@@ -45,4 +41,5 @@ Software R&D
 ## Contact me
 
 [Email: liufenglin@126.com](mailto:liufenglin@126.com)
+
 [Phone: +86-15951773985]
