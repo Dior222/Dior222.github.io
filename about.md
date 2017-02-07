@@ -4,31 +4,22 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
-
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
+Java后端研发狗一枚，喜欢折腾，懂点搜索，懂点Web，会点脚本，懂点安全，做过cep，喜欢钻研大数据方向的技术。希望能增加自己的深度，拓展技能树。
 
 ## Education
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+*  2012.9-2015.4 NUST Master Degree.
+*  2008.9-2012.6 NJAU Bachelor Degree.
 
 ## Roles
 
-Founder, ABC Organisation
+Software R&D
 
 ## Skills
 
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
-    
+* **English** - `CET-4` / `CET-6`
+* **Programming Language** - `Java` / `Python` / `Shell`
+* **Skills** - `Elasticsearch` / `Solr` / `MySQL` /`Redis` /`Kafka` /`Zookeeper` /`Spring & SpringCloud` /`Docker` /`CEP` /`Big Data`
     
 ## Achievements
 
@@ -39,17 +30,19 @@ Founder, ABC Organisation
 
 ***
 
-* [**This is my second achievement**](#) 
+* [**Hansight R&D, 2016.6-now**](#) 
 
-    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+    Saas product anquanyi develop.
+    Hansight Enterprise CEP product develop.
 
 ***
 
-* [**This is my third achievement**](#) 
+* [**Sinovatio R&D, 2015.4-2016.6**](#) 
 
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
+   Fulltext search middle-ware and ETL develop.
 
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[Email: liufenglin@126.com](mailto:liufenglin@126.com)
+[Phone: +86-15951773985]
